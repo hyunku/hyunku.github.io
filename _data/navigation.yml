@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About Professor"
+    url: /professor/
+  - title: "About Professors"
+    url: /professors/
+  - title: "Lab Members"
+    url: /members/
+  - title: "Publication"
+    url: /publication/
+  - title: "Research & News"
+    url: /news/
+  - title: "Gallery"
+    url: /gallery/
